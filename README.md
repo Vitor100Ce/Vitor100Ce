@@ -14,5 +14,5 @@ Sou um desenvolvedor backend apaixonado por Node.js, com um forte conhecimento e
 
 ## Contato
 
-- LinkedIn: [asdadfa]((https://www.linkedin.com/in/vitor-ramos-de-sousa-99bab1205/))
+- LinkedIn: [Vitor Ramos](https://www.linkedin.com/in/vitor-ramos-de-sousa-99bab1205/)
 
