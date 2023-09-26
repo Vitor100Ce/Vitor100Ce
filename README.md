@@ -8,9 +8,11 @@ Sou um desenvolvedor backend apaixonado por Node.js, com um forte conhecimento e
 
 - 💼 Desenvolvedor Backend Node.js
 - 🚀 Express
-- 📊 SQL e Sequelize
-- 🌐 Desenvolvimento Frontend: HTML, CSS
-- 🖥️ Framework Vue.js 3
+- 📊 SQL
+- 📊 Sequelize
+- 📊Knex
+- 🌐 Desenvolvimento Frontend: HTML, CSS, javascript
+- 🖥️ Vue.js 3
 
 ## Contato
 
