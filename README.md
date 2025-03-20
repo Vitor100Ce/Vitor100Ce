@@ -6,11 +6,9 @@ Sou um desenvolvedor backend apaixonado por Node.js, com um forte conhecimento e
 
 ## Habilidades
 
-- 💼 Desenvolvedor Backend Node.js
-- 🚀 Express
+- 💼 Desenvolvedor Backend Node.js | Python | PHP
+- 🚀 Express, Django, Laravel, Flask
 - 📊 SQL
-- 📊 Sequelize
-- 📊Knex
 - 🌐 Desenvolvimento Frontend: HTML, CSS, javascript
 - 🖥️ Vue.js 3
 
